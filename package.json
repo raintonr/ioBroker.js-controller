@@ -22,7 +22,7 @@
     "@iobroker/plugin-sentry": "~1.1.9",
     "@iobroker/db-states-redis": "~1.0.10",
     "@iobroker/db-states-file": "~1.0.10",
-    "@iobroker/db-objects-redis": "~1.0.10",
+    "@iobroker/db-objects-redis": "~1.2.7",
     "@iobroker/db-objects-file": "~1.0.10",
     "chokidar": "^3.5.1",
     "daemonize2": "^0.4.2",
