@@ -21,7 +21,7 @@
     "@alcalzone/release-script": "^2.2.1",
     "@types/fs-extra": "^9.0.11",
     "lerna": "^4.0.0",
-    "@types/event-stream": "^3.3.34",
+    "@types/event-stream": "^4.0.0",
     "@types/iobroker": "^3.3.4",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.10.2",
