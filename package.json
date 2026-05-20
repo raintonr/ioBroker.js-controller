@@ -31,7 +31,7 @@
         "@iobroker/types-dev": "file:packages/types-dev",
         "@microsoft/api-extractor": "^7.55.1",
         "@tsconfig/node22": "^22.0.0",
-        "@types/debug": "^4.1.12",
+        "@types/debug": "^4.1.13",
         "@types/event-stream": "^4.0.6",
         "@types/fs-extra": "^11.0.1",
         "@types/ioredis": "^4.28.10",
